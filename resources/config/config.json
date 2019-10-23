@@ -1,0 +1,6 @@
+{
+  "host": "localhost",
+  "port": "9080",
+  "connectionType": "tcp",
+  "logFilePath": "/logs/messages.log"
+}
